@@ -1,6 +1,6 @@
 h1 {
  color: #fff; /* テキストの色を白に設定 */
- background-color: #ff00ff; /* 背景色を赤に設定 */
+ background-color: #ff0000; /* 背景色を赤に設定 */
  font-family: "Georgia", serif; /* フォントを Georgia に設定。Georgia がない場合は serif を使用 */
  font-size: 2.5rem; /* フォントサイズを 2.5rem に設定 */
  text-align: center; /* テキストを中央揃えにする */
