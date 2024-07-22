@@ -31,8 +31,14 @@ img {
 }
 
 html {
-  font-family: "DotGothic16", sans-serif;
-  font-weight: 400;
+  // <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 200 to 900
+
+.noto-serif-jp-<uniquifier> {
+  font-family: "Noto Serif JP", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
   font-style: normal;
+}
 }
 
